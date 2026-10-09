@@ -7,6 +7,12 @@
 </head>
 <body>
     <p>peter</p>
+    
+    <?php 
+    echo"juraj";
+    print("štefan");
+
+    ?>
 </body>
 </html>
 # ! tab
